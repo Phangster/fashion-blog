@@ -1,0 +1,11 @@
+body{
+	font-family: 'Raleway', sans-serif;
+}
+h1 a{
+	text-decoration:none;
+	color:red;
+}
+nav{
+	text-decoration:none;
+	color: #337ab7;
+}
